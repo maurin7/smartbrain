@@ -11,9 +11,12 @@ root.render(
   </React.StrictMode>
 );
 
-/* SVGDefsElement
+<<<<<<< HEAD
 
-sdsds */
+
+=======
+//test
+>>>>>>> ae08dda48fe534a7480b7472bc43b7c51f474299
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
